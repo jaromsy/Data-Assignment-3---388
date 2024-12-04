@@ -1,0 +1,2312 @@
+-------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/jaromyoung/Library/CloudStorage/Box-Box/ECON 388/Data Assignment 3/data3.log
+  log type:  text
+ opened on:   4 Dec 2024, 12:05:15
+
+. 
+. ***RENAMING COUNTRIES***
+. use chat, clear
+
+. tab country
+
+                         country |      Freq.     Percent        Cum.
+---------------------------------+-----------------------------------
+                     Afghanistan |        259        0.62        0.62
+                         Albania |        259        0.62        1.24
+                         Algeria |        259        0.62        1.86
+                          Angola |        259        0.62        2.48
+                       Argentina |        259        0.62        3.11
+                         Armenia |        259        0.62        3.73
+                       Australia |        259        0.62        4.35
+                         Austria |        259        0.62        4.97
+                      Azerbaijan |        259        0.62        5.59
+                      Bangladesh |        259        0.62        6.21
+                         Belarus |        259        0.62        6.83
+                         Belgium |        259        0.62        7.45
+                          Belize |        259        0.62        8.07
+                           Benin |        259        0.62        8.70
+                         Bolivia |        259        0.62        9.32
+          Bosnia and Herzegovina |        259        0.62        9.94
+                        Botswana |        259        0.62       10.56
+                          Brazil |        259        0.62       11.18
+                        Bulgaria |        259        0.62       11.80
+                    Burkina Faso |        259        0.62       12.42
+                         Burundi |        259        0.62       13.04
+                        Cambodia |        259        0.62       13.66
+                        Cameroon |        259        0.62       14.29
+                          Canada |        259        0.62       14.91
+        Central African Republic |        259        0.62       15.53
+                            Chad |        259        0.62       16.15
+                           Chile |        259        0.62       16.77
+                           China |        259        0.62       17.39
+                        Colombia |        259        0.62       18.01
+                      Costa Rica |        259        0.62       18.63
+                         Croatia |        259        0.62       19.25
+                            Cuba |        259        0.62       19.88
+                  Czech Republic |        259        0.62       20.50
+                  Czechoslovakia |        259        0.62       21.12
+                   Côte d'Ivoire |        259        0.62       21.74
+               D.R. of the Congo |        259        0.62       22.36
+                         Denmark |        259        0.62       22.98
+              Dominican Republic |        259        0.62       23.60
+                         Ecuador |        259        0.62       24.22
+                           Egypt |        259        0.62       24.84
+                     El Salvador |        259        0.62       25.47
+               Equatorial Guinea |        259        0.62       26.09
+                         Eritrea |        259        0.62       26.71
+                         Estonia |        259        0.62       27.33
+                        Eswatini |        259        0.62       27.95
+                        Ethiopia |        259        0.62       28.57
+                         Finland |        259        0.62       29.19
+                          France |        259        0.62       29.81
+                   French Guiana |        259        0.62       30.43
+                           Gabon |        259        0.62       31.06
+                          Gambia |        259        0.62       31.68
+                         Georgia |        259        0.62       32.30
+                         Germany |        259        0.62       32.92
+                           Ghana |        259        0.62       33.54
+                          Greece |        259        0.62       34.16
+                       Guatemala |        259        0.62       34.78
+                          Guinea |        259        0.62       35.40
+                   Guinea-Bissau |        259        0.62       36.02
+                          Guyana |        259        0.62       36.65
+                           Haiti |        259        0.62       37.27
+                        Honduras |        259        0.62       37.89
+                       Hong Kong |        259        0.62       38.51
+                         Hungary |        259        0.62       39.13
+                         Iceland |        259        0.62       39.75
+                           India |        259        0.62       40.37
+                       Indochina |        259        0.62       40.99
+                       Indonesia |        259        0.62       41.61
+                            Iran |        259        0.62       42.24
+                            Iraq |        259        0.62       42.86
+                         Ireland |        259        0.62       43.48
+                          Israel |        259        0.62       44.10
+                           Italy |        259        0.62       44.72
+                           Japan |        259        0.62       45.34
+                          Jordan |        259        0.62       45.96
+                      Kazakhstan |        259        0.62       46.58
+                           Kenya |        259        0.62       47.20
+                          Kuwait |        259        0.62       47.83
+                      Kyrgyzstan |        259        0.62       48.45
+                            Laos |        259        0.62       49.07
+                          Latvia |        259        0.62       49.69
+                         Lebanon |        259        0.62       50.31
+                         Lesotho |        259        0.62       50.93
+                         Liberia |        259        0.62       51.55
+                           Libya |        259        0.62       52.17
+                       Lithuania |        259        0.62       52.80
+                      Luxembourg |        259        0.62       53.42
+                       Macedonia |        259        0.62       54.04
+                      Madagascar |        259        0.62       54.66
+                          Malawi |        259        0.62       55.28
+                        Malaysia |        259        0.62       55.90
+                            Mali |        259        0.62       56.52
+                      Mauritania |        259        0.62       57.14
+                       Mauritius |        259        0.62       57.76
+                          Mexico |        259        0.62       58.39
+                         Moldova |        259        0.62       59.01
+                        Mongolia |        259        0.62       59.63
+                      Montenegro |        259        0.62       60.25
+                         Morocco |        259        0.62       60.87
+                      Mozambique |        259        0.62       61.49
+                         Myanmar |        259        0.62       62.11
+                         Namibia |        259        0.62       62.73
+                           Nepal |        259        0.62       63.35
+                     Netherlands |        259        0.62       63.98
+                     New Zealand |        259        0.62       64.60
+                       Nicaragua |        259        0.62       65.22
+                           Niger |        259        0.62       65.84
+                         Nigeria |        259        0.62       66.46
+                   North Vietnam |        259        0.62       67.08
+                          Norway |        259        0.62       67.70
+                            Oman |        259        0.62       68.32
+                        Pakistan |        259        0.62       68.94
+                          Panama |        259        0.62       69.57
+                Papua New Guinea |        259        0.62       70.19
+                        Paraguay |        259        0.62       70.81
+                            Peru |        259        0.62       71.43
+                     Philippines |        259        0.62       72.05
+                          Poland |        259        0.62       72.67
+                        Portugal |        259        0.62       73.29
+           Republic of the Congo |        259        0.62       73.91
+                         Romania |        259        0.62       74.53
+                          Russia |        259        0.62       75.16
+                          Rwanda |        259        0.62       75.78
+                    Saudi Arabia |        259        0.62       76.40
+                         Senegal |        259        0.62       77.02
+                          Serbia |        259        0.62       77.64
+                    Sierra Leone |        259        0.62       78.26
+                       Singapore |        259        0.62       78.88
+                        Slovakia |        259        0.62       79.50
+                        Slovenia |        259        0.62       80.12
+                         Somalia |        259        0.62       80.75
+                    South Africa |        259        0.62       81.37
+                     South Korea |        259        0.62       81.99
+                   South Vietnam |        259        0.62       82.61
+                     South Yemen |        259        0.62       83.23
+                           Spain |        259        0.62       83.85
+                       Sri Lanka |        259        0.62       84.47
+                           Sudan |        259        0.62       85.09
+                        Suriname |        259        0.62       85.71
+                          Sweden |        259        0.62       86.34
+                     Switzerland |        259        0.62       86.96
+                           Syria |        259        0.62       87.58
+                          Taiwan |        259        0.62       88.20
+                      Tajikistan |        259        0.62       88.82
+                        Tanzania |        259        0.62       89.44
+                        Thailand |        259        0.62       90.06
+                            Togo |        259        0.62       90.68
+                         Tunisia |        259        0.62       91.30
+                          Turkey |        259        0.62       91.93
+                    Turkmenistan |        259        0.62       92.55
+                          Uganda |        259        0.62       93.17
+                         Ukraine |        259        0.62       93.79
+            United Arab Emirates |        259        0.62       94.41
+                  United Kingdom |        259        0.62       95.03
+                   United States |        259        0.62       95.65
+                         Uruguay |        259        0.62       96.27
+                      Uzbekistan |        259        0.62       96.89
+                       Venezuala |        259        0.62       97.52
+                         Vietnam |        259        0.62       98.14
+                           Yemen |        259        0.62       98.76
+                          Zambia |        259        0.62       99.38
+                        Zimbabwe |        259        0.62      100.00
+---------------------------------+-----------------------------------
+                           Total |     41,699      100.00
+
+. use pwt1001, clear
+
+. tab country
+
+                      Country name |      Freq.     Percent        Cum.
+-----------------------------------+-----------------------------------
+                           Albania |         70        0.55        0.55
+                           Algeria |         70        0.55        1.09
+                            Angola |         70        0.55        1.64
+                          Anguilla |         70        0.55        2.19
+               Antigua and Barbuda |         70        0.55        2.73
+                         Argentina |         70        0.55        3.28
+                           Armenia |         70        0.55        3.83
+                             Aruba |         70        0.55        4.37
+                         Australia |         70        0.55        4.92
+                           Austria |         70        0.55        5.46
+                        Azerbaijan |         70        0.55        6.01
+                           Bahamas |         70        0.55        6.56
+                           Bahrain |         70        0.55        7.10
+                        Bangladesh |         70        0.55        7.65
+                          Barbados |         70        0.55        8.20
+                           Belarus |         70        0.55        8.74
+                           Belgium |         70        0.55        9.29
+                            Belize |         70        0.55        9.84
+                             Benin |         70        0.55       10.38
+                           Bermuda |         70        0.55       10.93
+                            Bhutan |         70        0.55       11.48
+                           Bolivia |         70        0.55       12.02
+            Bosnia and Herzegovina |         70        0.55       12.57
+                          Botswana |         70        0.55       13.11
+                            Brazil |         70        0.55       13.66
+            British Virgin Islands |         70        0.55       14.21
+                 Brunei Darussalam |         70        0.55       14.75
+                          Bulgaria |         70        0.55       15.30
+                      Burkina Faso |         70        0.55       15.85
+                           Burundi |         70        0.55       16.39
+                        Cabo Verde |         70        0.55       16.94
+                          Cambodia |         70        0.55       17.49
+                          Cameroon |         70        0.55       18.03
+                            Canada |         70        0.55       18.58
+                    Cayman Islands |         70        0.55       19.13
+          Central African Republic |         70        0.55       19.67
+                              Chad |         70        0.55       20.22
+                             Chile |         70        0.55       20.77
+                             China |         70        0.55       21.31
+                          Colombia |         70        0.55       21.86
+                           Comoros |         70        0.55       22.40
+                             Congo |         70        0.55       22.95
+                        Costa Rica |         70        0.55       23.50
+                           Croatia |         70        0.55       24.04
+                           Curaçao |         70        0.55       24.59
+                            Cyprus |         70        0.55       25.14
+                    Czech Republic |         70        0.55       25.68
+                     Côte d'Ivoire |         70        0.55       26.23
+                 D.R. of the Congo |         70        0.55       26.78
+                           Denmark |         70        0.55       27.32
+                          Djibouti |         70        0.55       27.87
+                          Dominica |         70        0.55       28.42
+                Dominican Republic |         70        0.55       28.96
+                           Ecuador |         70        0.55       29.51
+                             Egypt |         70        0.55       30.05
+                       El Salvador |         70        0.55       30.60
+                 Equatorial Guinea |         70        0.55       31.15
+                           Estonia |         70        0.55       31.69
+                          Eswatini |         70        0.55       32.24
+                          Ethiopia |         70        0.55       32.79
+                              Fiji |         70        0.55       33.33
+                           Finland |         70        0.55       33.88
+                            France |         70        0.55       34.43
+                             Gabon |         70        0.55       34.97
+                            Gambia |         70        0.55       35.52
+                           Georgia |         70        0.55       36.07
+                           Germany |         70        0.55       36.61
+                             Ghana |         70        0.55       37.16
+                            Greece |         70        0.55       37.70
+                           Grenada |         70        0.55       38.25
+                         Guatemala |         70        0.55       38.80
+                            Guinea |         70        0.55       39.34
+                     Guinea-Bissau |         70        0.55       39.89
+                            Guyana |         70        0.55       40.44
+                             Haiti |         70        0.55       40.98
+                          Honduras |         70        0.55       41.53
+                         Hong Kong |         70        0.55       42.08
+                           Hungary |         70        0.55       42.62
+                           Iceland |         70        0.55       43.17
+                             India |         70        0.55       43.72
+                         Indonesia |         70        0.55       44.26
+                              Iran |         70        0.55       44.81
+                              Iraq |         70        0.55       45.36
+                           Ireland |         70        0.55       45.90
+                            Israel |         70        0.55       46.45
+                             Italy |         70        0.55       46.99
+                           Jamaica |         70        0.55       47.54
+                             Japan |         70        0.55       48.09
+                            Jordan |         70        0.55       48.63
+                        Kazakhstan |         70        0.55       49.18
+                             Kenya |         70        0.55       49.73
+                            Kuwait |         70        0.55       50.27
+                        Kyrgyzstan |         70        0.55       50.82
+                              Laos |         70        0.55       51.37
+                            Latvia |         70        0.55       51.91
+                           Lebanon |         70        0.55       52.46
+                           Lesotho |         70        0.55       53.01
+                           Liberia |         70        0.55       53.55
+                         Lithuania |         70        0.55       54.10
+                        Luxembourg |         70        0.55       54.64
+                             Macao |         70        0.55       55.19
+                        Madagascar |         70        0.55       55.74
+                            Malawi |         70        0.55       56.28
+                          Malaysia |         70        0.55       56.83
+                          Maldives |         70        0.55       57.38
+                              Mali |         70        0.55       57.92
+                             Malta |         70        0.55       58.47
+                        Mauritania |         70        0.55       59.02
+                         Mauritius |         70        0.55       59.56
+                            Mexico |         70        0.55       60.11
+                           Moldova |         70        0.55       60.66
+                          Mongolia |         70        0.55       61.20
+                        Montenegro |         70        0.55       61.75
+                        Montserrat |         70        0.55       62.30
+                           Morocco |         70        0.55       62.84
+                        Mozambique |         70        0.55       63.39
+                           Myanmar |         70        0.55       63.93
+                           Namibia |         70        0.55       64.48
+                             Nepal |         70        0.55       65.03
+                       Netherlands |         70        0.55       65.57
+                       New Zealand |         70        0.55       66.12
+                         Nicaragua |         70        0.55       66.67
+                             Niger |         70        0.55       67.21
+                           Nigeria |         70        0.55       67.76
+                   North Macedonia |         70        0.55       68.31
+                            Norway |         70        0.55       68.85
+                              Oman |         70        0.55       69.40
+                          Pakistan |         70        0.55       69.95
+                         Palestine |         70        0.55       70.49
+                            Panama |         70        0.55       71.04
+                          Paraguay |         70        0.55       71.58
+                              Peru |         70        0.55       72.13
+                       Philippines |         70        0.55       72.68
+                            Poland |         70        0.55       73.22
+                          Portugal |         70        0.55       73.77
+                             Qatar |         70        0.55       74.32
+                           Romania |         70        0.55       74.86
+                            Russia |         70        0.55       75.41
+                            Rwanda |         70        0.55       75.96
+             Saint Kitts and Nevis |         70        0.55       76.50
+                       Saint Lucia |         70        0.55       77.05
+             Sao Tome and Principe |         70        0.55       77.60
+                      Saudi Arabia |         70        0.55       78.14
+                           Senegal |         70        0.55       78.69
+                            Serbia |         70        0.55       79.23
+                        Seychelles |         70        0.55       79.78
+                      Sierra Leone |         70        0.55       80.33
+                         Singapore |         70        0.55       80.87
+                      Sint Maarten |         70        0.55       81.42
+                          Slovakia |         70        0.55       81.97
+                          Slovenia |         70        0.55       82.51
+                      South Africa |         70        0.55       83.06
+                       South Korea |         70        0.55       83.61
+                             Spain |         70        0.55       84.15
+                         Sri Lanka |         70        0.55       84.70
+    St. Vincent and the Grenadines |         70        0.55       85.25
+                             Sudan |         70        0.55       85.79
+                          Suriname |         70        0.55       86.34
+                            Sweden |         70        0.55       86.89
+                       Switzerland |         70        0.55       87.43
+                             Syria |         70        0.55       87.98
+                            Taiwan |         70        0.55       88.52
+                        Tajikistan |         70        0.55       89.07
+                          Tanzania |         70        0.55       89.62
+                          Thailand |         70        0.55       90.16
+                              Togo |         70        0.55       90.71
+               Trinidad and Tobago |         70        0.55       91.26
+                           Tunisia |         70        0.55       91.80
+                            Turkey |         70        0.55       92.35
+                      Turkmenistan |         70        0.55       92.90
+          Turks and Caicos Islands |         70        0.55       93.44
+                            Uganda |         70        0.55       93.99
+                           Ukraine |         70        0.55       94.54
+              United Arab Emirates |         70        0.55       95.08
+                    United Kingdom |         70        0.55       95.63
+                     United States |         70        0.55       96.17
+                           Uruguay |         70        0.55       96.72
+                        Uzbekistan |         70        0.55       97.27
+                         Venezuela |         70        0.55       97.81
+                           Vietnam |         70        0.55       98.36
+                             Yemen |         70        0.55       98.91
+                            Zambia |         70        0.55       99.45
+                          Zimbabwe |         70        0.55      100.00
+-----------------------------------+-----------------------------------
+                             Total |     12,810      100.00
+
+. replace country = "South Korea" if country == "Republic of Korea"
+(0 real changes made)
+
+. replace country = "Iran" if country == "Iran (Islamic Republic of)"
+(0 real changes made)
+
+. replace country = "Venezuela" if country == "Venezuela (Bolivarian Republic of)"
+(0 real changes made)
+
+. replace country = "Tanzania" if country == "U.R. of Tanzania: Mainland"
+(0 real changes made)
+
+. replace country = "Palestine" if country == "State of Palestine"
+(0 real changes made)
+
+. replace country = "Sint Maarten" if country == "Sint Maarten (Dutch part)"
+(0 real changes made)
+
+. replace country = "Russia" if country == "Russian Federation"
+(0 real changes made)
+
+. replace country = "Moldova" if country == "Republic of Moldova"
+(0 real changes made)
+
+. replace country = "Laos" if country == "Lao People's DR"
+(0 real changes made)
+
+. replace country = "Bolivia" if country == "Bolivia (Plurinational State of)"
+(0 real changes made)
+
+. replace country = "Hong Kong" if country == "China, Hong Kong SAR"
+(0 real changes made)
+
+. replace country = "Macao" if country == "China, Macao SAR"
+(0 real changes made)
+
+. replace country = "Syria" if country == "Syrian Arab Republic"
+(0 real changes made)
+
+. replace country = "Vietnam" if country == "Viet Nam"
+(0 real changes made)
+
+. *gen gdpcapita = rgdpna/pop
+. save pwt1001, replace
+file pwt1001.dta saved
+
+. 
+. use chat, clear
+
+. tab country
+
+                         country |      Freq.     Percent        Cum.
+---------------------------------+-----------------------------------
+                     Afghanistan |        259        0.62        0.62
+                         Albania |        259        0.62        1.24
+                         Algeria |        259        0.62        1.86
+                          Angola |        259        0.62        2.48
+                       Argentina |        259        0.62        3.11
+                         Armenia |        259        0.62        3.73
+                       Australia |        259        0.62        4.35
+                         Austria |        259        0.62        4.97
+                      Azerbaijan |        259        0.62        5.59
+                      Bangladesh |        259        0.62        6.21
+                         Belarus |        259        0.62        6.83
+                         Belgium |        259        0.62        7.45
+                          Belize |        259        0.62        8.07
+                           Benin |        259        0.62        8.70
+                         Bolivia |        259        0.62        9.32
+          Bosnia and Herzegovina |        259        0.62        9.94
+                        Botswana |        259        0.62       10.56
+                          Brazil |        259        0.62       11.18
+                        Bulgaria |        259        0.62       11.80
+                    Burkina Faso |        259        0.62       12.42
+                         Burundi |        259        0.62       13.04
+                        Cambodia |        259        0.62       13.66
+                        Cameroon |        259        0.62       14.29
+                          Canada |        259        0.62       14.91
+        Central African Republic |        259        0.62       15.53
+                            Chad |        259        0.62       16.15
+                           Chile |        259        0.62       16.77
+                           China |        259        0.62       17.39
+                        Colombia |        259        0.62       18.01
+                      Costa Rica |        259        0.62       18.63
+                         Croatia |        259        0.62       19.25
+                            Cuba |        259        0.62       19.88
+                  Czech Republic |        259        0.62       20.50
+                  Czechoslovakia |        259        0.62       21.12
+                   Côte d'Ivoire |        259        0.62       21.74
+               D.R. of the Congo |        259        0.62       22.36
+                         Denmark |        259        0.62       22.98
+              Dominican Republic |        259        0.62       23.60
+                         Ecuador |        259        0.62       24.22
+                           Egypt |        259        0.62       24.84
+                     El Salvador |        259        0.62       25.47
+               Equatorial Guinea |        259        0.62       26.09
+                         Eritrea |        259        0.62       26.71
+                         Estonia |        259        0.62       27.33
+                        Eswatini |        259        0.62       27.95
+                        Ethiopia |        259        0.62       28.57
+                         Finland |        259        0.62       29.19
+                          France |        259        0.62       29.81
+                   French Guiana |        259        0.62       30.43
+                           Gabon |        259        0.62       31.06
+                          Gambia |        259        0.62       31.68
+                         Georgia |        259        0.62       32.30
+                         Germany |        259        0.62       32.92
+                           Ghana |        259        0.62       33.54
+                          Greece |        259        0.62       34.16
+                       Guatemala |        259        0.62       34.78
+                          Guinea |        259        0.62       35.40
+                   Guinea-Bissau |        259        0.62       36.02
+                          Guyana |        259        0.62       36.65
+                           Haiti |        259        0.62       37.27
+                        Honduras |        259        0.62       37.89
+                       Hong Kong |        259        0.62       38.51
+                         Hungary |        259        0.62       39.13
+                         Iceland |        259        0.62       39.75
+                           India |        259        0.62       40.37
+                       Indochina |        259        0.62       40.99
+                       Indonesia |        259        0.62       41.61
+                            Iran |        259        0.62       42.24
+                            Iraq |        259        0.62       42.86
+                         Ireland |        259        0.62       43.48
+                          Israel |        259        0.62       44.10
+                           Italy |        259        0.62       44.72
+                           Japan |        259        0.62       45.34
+                          Jordan |        259        0.62       45.96
+                      Kazakhstan |        259        0.62       46.58
+                           Kenya |        259        0.62       47.20
+                          Kuwait |        259        0.62       47.83
+                      Kyrgyzstan |        259        0.62       48.45
+                            Laos |        259        0.62       49.07
+                          Latvia |        259        0.62       49.69
+                         Lebanon |        259        0.62       50.31
+                         Lesotho |        259        0.62       50.93
+                         Liberia |        259        0.62       51.55
+                           Libya |        259        0.62       52.17
+                       Lithuania |        259        0.62       52.80
+                      Luxembourg |        259        0.62       53.42
+                       Macedonia |        259        0.62       54.04
+                      Madagascar |        259        0.62       54.66
+                          Malawi |        259        0.62       55.28
+                        Malaysia |        259        0.62       55.90
+                            Mali |        259        0.62       56.52
+                      Mauritania |        259        0.62       57.14
+                       Mauritius |        259        0.62       57.76
+                          Mexico |        259        0.62       58.39
+                         Moldova |        259        0.62       59.01
+                        Mongolia |        259        0.62       59.63
+                      Montenegro |        259        0.62       60.25
+                         Morocco |        259        0.62       60.87
+                      Mozambique |        259        0.62       61.49
+                         Myanmar |        259        0.62       62.11
+                         Namibia |        259        0.62       62.73
+                           Nepal |        259        0.62       63.35
+                     Netherlands |        259        0.62       63.98
+                     New Zealand |        259        0.62       64.60
+                       Nicaragua |        259        0.62       65.22
+                           Niger |        259        0.62       65.84
+                         Nigeria |        259        0.62       66.46
+                   North Vietnam |        259        0.62       67.08
+                          Norway |        259        0.62       67.70
+                            Oman |        259        0.62       68.32
+                        Pakistan |        259        0.62       68.94
+                          Panama |        259        0.62       69.57
+                Papua New Guinea |        259        0.62       70.19
+                        Paraguay |        259        0.62       70.81
+                            Peru |        259        0.62       71.43
+                     Philippines |        259        0.62       72.05
+                          Poland |        259        0.62       72.67
+                        Portugal |        259        0.62       73.29
+           Republic of the Congo |        259        0.62       73.91
+                         Romania |        259        0.62       74.53
+                          Russia |        259        0.62       75.16
+                          Rwanda |        259        0.62       75.78
+                    Saudi Arabia |        259        0.62       76.40
+                         Senegal |        259        0.62       77.02
+                          Serbia |        259        0.62       77.64
+                    Sierra Leone |        259        0.62       78.26
+                       Singapore |        259        0.62       78.88
+                        Slovakia |        259        0.62       79.50
+                        Slovenia |        259        0.62       80.12
+                         Somalia |        259        0.62       80.75
+                    South Africa |        259        0.62       81.37
+                     South Korea |        259        0.62       81.99
+                   South Vietnam |        259        0.62       82.61
+                     South Yemen |        259        0.62       83.23
+                           Spain |        259        0.62       83.85
+                       Sri Lanka |        259        0.62       84.47
+                           Sudan |        259        0.62       85.09
+                        Suriname |        259        0.62       85.71
+                          Sweden |        259        0.62       86.34
+                     Switzerland |        259        0.62       86.96
+                           Syria |        259        0.62       87.58
+                          Taiwan |        259        0.62       88.20
+                      Tajikistan |        259        0.62       88.82
+                        Tanzania |        259        0.62       89.44
+                        Thailand |        259        0.62       90.06
+                            Togo |        259        0.62       90.68
+                         Tunisia |        259        0.62       91.30
+                          Turkey |        259        0.62       91.93
+                    Turkmenistan |        259        0.62       92.55
+                          Uganda |        259        0.62       93.17
+                         Ukraine |        259        0.62       93.79
+            United Arab Emirates |        259        0.62       94.41
+                  United Kingdom |        259        0.62       95.03
+                   United States |        259        0.62       95.65
+                         Uruguay |        259        0.62       96.27
+                      Uzbekistan |        259        0.62       96.89
+                       Venezuala |        259        0.62       97.52
+                         Vietnam |        259        0.62       98.14
+                           Yemen |        259        0.62       98.76
+                          Zambia |        259        0.62       99.38
+                        Zimbabwe |        259        0.62      100.00
+---------------------------------+-----------------------------------
+                           Total |     41,699      100.00
+
+. *rename country_name country
+. replace country = "D.R. of the Congo" if country == "Democratic Republic of the Congo"
+(0 real changes made)
+
+. replace country = "Slovakia" if country == "Slovak Republic"
+(0 real changes made)
+
+. replace country = "Bosnia and Herzegovina" if country == "Bosnia-Herzegovina"
+(0 real changes made)
+
+. replace country = "Côte d'Ivoire" if country == "Ivory Coast"
+(0 real changes made)
+
+. replace country = "Eswatini" if country == "Swaziland"
+(0 real changes made)
+
+. replace country = "Myanmar" if country == "Burma"
+(0 real changes made)
+
+. destring railline, replace ignore(",") force
+railline already numeric; no replace
+
+. save chat, replace
+file chat.dta saved
+
+. 
+. ***RESHAPE WIDE***
+. use pwt1001, clear
+
+. collapse (mean) gdpcapita pop, by (country year)
+
+. reshape wide gdpcapita pop, i(country) j(year)
+(j = 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 196
+> 9 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989
+>  1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 
+> 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019)
+
+Data                               Long   ->   Wide
+-----------------------------------------------------------------------------
+Number of observations           12,810   ->   183         
+Number of variables                   4   ->   141         
+j variable (70 values)             year   ->   (dropped)
+xij variables:
+                              gdpcapita   ->   gdpcapita1950 gdpcapita1951 ... gdpcapita2019
+                                    pop   ->   pop1950 pop1951 ... pop2019
+-----------------------------------------------------------------------------
+
+. save gdpcollapse, replace
+file gdpcollapse.dta saved
+
+. 
+. use chat, clear
+
+. collapse (mean) computer vehicle_car telephone ag_tractor railline, by (country year)
+
+. reshape wide computer vehicle_car telephone ag_tractor railline, i(country) j(year)
+(j = 1750 1751 1752 1753 1754 1755 1756 1757 1758 1759 1760 1761 1762 1763 1764 1765 1766 1767 1768 176
+> 9 1770 1771 1772 1773 1774 1775 1776 1777 1778 1779 1780 1781 1782 1783 1784 1785 1786 1787 1788 1789
+>  1790 1791 1792 1793 1794 1795 1796 1797 1798 1799 1800 1801 1802 1803 1804 1805 1806 1807 1808 1809 
+> 1810 1811 1812 1813 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1826 1827 1828 1829 1
+> 830 1831 1832 1833 1834 1835 1836 1837 1838 1839 1840 1841 1842 1843 1844 1845 1846 1847 1848 1849 18
+> 50 1851 1852 1853 1854 1855 1856 1857 1858 1859 1860 1861 1862 1863 1864 1865 1866 1867 1868 1869 187
+> 0 1871 1872 1873 1874 1875 1876 1877 1878 1879 1880 1881 1882 1883 1884 1885 1886 1887 1888 1889 1890
+>  1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909 1910 
+> 1911 1912 1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1
+> 931 1932 1933 1934 1935 1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950 19
+> 51 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 197
+> 1 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991
+>  1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008)
+
+Data                               Long   ->   Wide
+-----------------------------------------------------------------------------
+Number of observations           41,699   ->   161         
+Number of variables                   7   ->   1,296       
+j variable (259 values)            year   ->   (dropped)
+xij variables:
+                               computer   ->   computer1750 computer1751 ... computer2008
+                            vehicle_car   ->   vehicle_car1750 vehicle_car1751 ... vehicle_car2008
+                              telephone   ->   telephone1750 telephone1751 ... telephone2008
+                             ag_tractor   ->   ag_tractor1750 ag_tractor1751 ... ag_tractor2008
+                               railline   ->   railline1750 railline1751 ... railline2008
+-----------------------------------------------------------------------------
+
+. save techcollapse, replace
+file techcollapse.dta saved
+
+. 
+. ***GROWTH VARS***
+. use gdpcollapse, clear
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen gdp_growth`i' = ((gdpcapita`j' / gdpcapita`i') - 1)*100
+  4. }
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(26 missing values generated)
+(25 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+(2 missing values generated)
+
+. save gdpcollapse, replace
+file gdpcollapse.dta saved
+
+. 
+. use techcollapse, clear
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen computer_growth`i' = ((computer`j' / computer`i') - 1)*100
+  4. }
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(161 missing values generated)
+(160 missing values generated)
+(158 missing values generated)
+(158 missing values generated)
+(157 missing values generated)
+(157 missing values generated)
+(155 missing values generated)
+(154 missing values generated)
+(153 missing values generated)
+(119 missing values generated)
+(119 missing values generated)
+(106 missing values generated)
+(100 missing values generated)
+(96 missing values generated)
+(89 missing values generated)
+(78 missing values generated)
+(66 missing values generated)
+(57 missing values generated)
+(49 missing values generated)
+(38 missing values generated)
+(33 missing values generated)
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen car_growth`i' = ((vehicle_car`j' / vehicle_car`i') - 1)*100
+  4. }
+(52 missing values generated)
+(54 missing values generated)
+(56 missing values generated)
+(56 missing values generated)
+(58 missing values generated)
+(59 missing values generated)
+(57 missing values generated)
+(59 missing values generated)
+(56 missing values generated)
+(53 missing values generated)
+(54 missing values generated)
+(54 missing values generated)
+(55 missing values generated)
+(55 missing values generated)
+(55 missing values generated)
+(56 missing values generated)
+(59 missing values generated)
+(62 missing values generated)
+(62 missing values generated)
+(62 missing values generated)
+(35 missing values generated)
+(37 missing values generated)
+(45 missing values generated)
+(59 missing values generated)
+(56 missing values generated)
+(57 missing values generated)
+(76 missing values generated)
+(104 missing values generated)
+(115 missing values generated)
+(122 missing values generated)
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen phone_growth`i' = ((telephone`j' / telephone`i') - 1)*100
+  4. }
+(60 missing values generated)
+(60 missing values generated)
+(63 missing values generated)
+(67 missing values generated)
+(65 missing values generated)
+(35 missing values generated)
+(33 missing values generated)
+(35 missing values generated)
+(31 missing values generated)
+(33 missing values generated)
+(36 missing values generated)
+(31 missing values generated)
+(30 missing values generated)
+(26 missing values generated)
+(28 missing values generated)
+(31 missing values generated)
+(34 missing values generated)
+(36 missing values generated)
+(74 missing values generated)
+(69 missing values generated)
+(71 missing values generated)
+(71 missing values generated)
+(73 missing values generated)
+(82 missing values generated)
+(72 missing values generated)
+(72 missing values generated)
+(73 missing values generated)
+(74 missing values generated)
+(85 missing values generated)
+(85 missing values generated)
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen tractor_growth`i' = ((ag_tractor`j' / ag_tractor`i') - 1)*100
+  4. }
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(31 missing values generated)
+(14 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+(11 missing values generated)
+
+. forvalues i=1970/1999{
+  2.         local j= `i'+1
+  3.         gen rail_growth`i' = ((railline`j' / railline`i') - 1)*100
+  4. }
+(64 missing values generated)
+(65 missing values generated)
+(65 missing values generated)
+(64 missing values generated)
+(67 missing values generated)
+(74 missing values generated)
+(75 missing values generated)
+(76 missing values generated)
+(73 missing values generated)
+(76 missing values generated)
+(73 missing values generated)
+(71 missing values generated)
+(71 missing values generated)
+(73 missing values generated)
+(72 missing values generated)
+(70 missing values generated)
+(70 missing values generated)
+(71 missing values generated)
+(73 missing values generated)
+(73 missing values generated)
+(74 missing values generated)
+(76 missing values generated)
+(74 missing values generated)
+(102 missing values generated)
+(100 missing values generated)
+(103 missing values generated)
+(103 missing values generated)
+(104 missing values generated)
+(133 missing values generated)
+(145 missing values generated)
+
+. save techcollapse, replace
+file techcollapse.dta saved
+
+. 
+. ***RESHAPE LONG***
+. use gdpcollapse, clear
+
+. reshape long gdpcapita gdp_growth pop, i(country) j(year)
+(j = 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 196
+> 9 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989
+>  1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 
+> 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019)
+(variable gdp_growth1950 not found)
+(variable gdp_growth1951 not found)
+(variable gdp_growth1952 not found)
+(variable gdp_growth1953 not found)
+(variable gdp_growth1954 not found)
+(variable gdp_growth1955 not found)
+(variable gdp_growth1956 not found)
+(variable gdp_growth1957 not found)
+(variable gdp_growth1958 not found)
+(variable gdp_growth1959 not found)
+(variable gdp_growth1960 not found)
+(variable gdp_growth1961 not found)
+(variable gdp_growth1962 not found)
+(variable gdp_growth1963 not found)
+(variable gdp_growth1964 not found)
+(variable gdp_growth1965 not found)
+(variable gdp_growth1966 not found)
+(variable gdp_growth1967 not found)
+(variable gdp_growth1968 not found)
+(variable gdp_growth1969 not found)
+(variable gdp_growth2000 not found)
+(variable gdp_growth2001 not found)
+(variable gdp_growth2002 not found)
+(variable gdp_growth2003 not found)
+(variable gdp_growth2004 not found)
+(variable gdp_growth2005 not found)
+(variable gdp_growth2006 not found)
+(variable gdp_growth2007 not found)
+(variable gdp_growth2008 not found)
+(variable gdp_growth2009 not found)
+(variable gdp_growth2010 not found)
+(variable gdp_growth2011 not found)
+(variable gdp_growth2012 not found)
+(variable gdp_growth2013 not found)
+(variable gdp_growth2014 not found)
+(variable gdp_growth2015 not found)
+(variable gdp_growth2016 not found)
+(variable gdp_growth2017 not found)
+(variable gdp_growth2018 not found)
+(variable gdp_growth2019 not found)
+
+Data                               Wide   ->   Long
+-----------------------------------------------------------------------------
+Number of observations              183   ->   12,810      
+Number of variables                 171   ->   5           
+j variable (70 values)                    ->   year
+xij variables:
+gdpcapita1950 gdpcapita1951 ... gdpcapita2019->gdpcapita
+gdp_growth1950 gdp_growth1951 ... gdp_growth2019->gdp_growth
+            pop1950 pop1951 ... pop2019   ->   pop
+-----------------------------------------------------------------------------
+
+. save gdplong, replace
+file gdplong.dta saved
+
+. 
+. use techcollapse, clear
+
+. reshape long computer computer_growth vehicle_car car_growth telephone phone_growth ag_tractor tracto
+> r_growth railline rail_growth, i(country) j(year)
+(j = 1750 1751 1752 1753 1754 1755 1756 1757 1758 1759 1760 1761 1762 1763 1764 1765 1766 1767 1768 176
+> 9 1770 1771 1772 1773 1774 1775 1776 1777 1778 1779 1780 1781 1782 1783 1784 1785 1786 1787 1788 1789
+>  1790 1791 1792 1793 1794 1795 1796 1797 1798 1799 1800 1801 1802 1803 1804 1805 1806 1807 1808 1809 
+> 1810 1811 1812 1813 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1826 1827 1828 1829 1
+> 830 1831 1832 1833 1834 1835 1836 1837 1838 1839 1840 1841 1842 1843 1844 1845 1846 1847 1848 1849 18
+> 50 1851 1852 1853 1854 1855 1856 1857 1858 1859 1860 1861 1862 1863 1864 1865 1866 1867 1868 1869 187
+> 0 1871 1872 1873 1874 1875 1876 1877 1878 1879 1880 1881 1882 1883 1884 1885 1886 1887 1888 1889 1890
+>  1891 1892 1893 1894 1895 1896 1897 1898 1899 1900 1901 1902 1903 1904 1905 1906 1907 1908 1909 1910 
+> 1911 1912 1913 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930 1
+> 931 1932 1933 1934 1935 1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950 19
+> 51 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 197
+> 1 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991
+>  1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008)
+(variable computer_growth1750 not found)
+(variable car_growth1750 not found)
+(variable phone_growth1750 not found)
+(variable tractor_growth1750 not found)
+(variable rail_growth1750 not found)
+(variable computer_growth1751 not found)
+(variable car_growth1751 not found)
+(variable phone_growth1751 not found)
+(variable tractor_growth1751 not found)
+(variable rail_growth1751 not found)
+(variable computer_growth1752 not found)
+(variable car_growth1752 not found)
+(variable phone_growth1752 not found)
+(variable tractor_growth1752 not found)
+(variable rail_growth1752 not found)
+(variable computer_growth1753 not found)
+(variable car_growth1753 not found)
+(variable phone_growth1753 not found)
+(variable tractor_growth1753 not found)
+(variable rail_growth1753 not found)
+(variable computer_growth1754 not found)
+(variable car_growth1754 not found)
+(variable phone_growth1754 not found)
+(variable tractor_growth1754 not found)
+(variable rail_growth1754 not found)
+(variable computer_growth1755 not found)
+(variable car_growth1755 not found)
+(variable phone_growth1755 not found)
+(variable tractor_growth1755 not found)
+(variable rail_growth1755 not found)
+(variable computer_growth1756 not found)
+(variable car_growth1756 not found)
+(variable phone_growth1756 not found)
+(variable tractor_growth1756 not found)
+(variable rail_growth1756 not found)
+(variable computer_growth1757 not found)
+(variable car_growth1757 not found)
+(variable phone_growth1757 not found)
+(variable tractor_growth1757 not found)
+(variable rail_growth1757 not found)
+(variable computer_growth1758 not found)
+(variable car_growth1758 not found)
+(variable phone_growth1758 not found)
+(variable tractor_growth1758 not found)
+(variable rail_growth1758 not found)
+(variable computer_growth1759 not found)
+(variable car_growth1759 not found)
+(variable phone_growth1759 not found)
+(variable tractor_growth1759 not found)
+(variable rail_growth1759 not found)
+(variable computer_growth1760 not found)
+(variable car_growth1760 not found)
+(variable phone_growth1760 not found)
+(variable tractor_growth1760 not found)
+(variable rail_growth1760 not found)
+(variable computer_growth1761 not found)
+(variable car_growth1761 not found)
+(variable phone_growth1761 not found)
+(variable tractor_growth1761 not found)
+(variable rail_growth1761 not found)
+(variable computer_growth1762 not found)
+(variable car_growth1762 not found)
+(variable phone_growth1762 not found)
+(variable tractor_growth1762 not found)
+(variable rail_growth1762 not found)
+(variable computer_growth1763 not found)
+(variable car_growth1763 not found)
+(variable phone_growth1763 not found)
+(variable tractor_growth1763 not found)
+(variable rail_growth1763 not found)
+(variable computer_growth1764 not found)
+(variable car_growth1764 not found)
+(variable phone_growth1764 not found)
+(variable tractor_growth1764 not found)
+(variable rail_growth1764 not found)
+(variable computer_growth1765 not found)
+(variable car_growth1765 not found)
+(variable phone_growth1765 not found)
+(variable tractor_growth1765 not found)
+(variable rail_growth1765 not found)
+(variable computer_growth1766 not found)
+(variable car_growth1766 not found)
+(variable phone_growth1766 not found)
+(variable tractor_growth1766 not found)
+(variable rail_growth1766 not found)
+(variable computer_growth1767 not found)
+(variable car_growth1767 not found)
+(variable phone_growth1767 not found)
+(variable tractor_growth1767 not found)
+(variable rail_growth1767 not found)
+(variable computer_growth1768 not found)
+(variable car_growth1768 not found)
+(variable phone_growth1768 not found)
+(variable tractor_growth1768 not found)
+(variable rail_growth1768 not found)
+(variable computer_growth1769 not found)
+(variable car_growth1769 not found)
+(variable phone_growth1769 not found)
+(variable tractor_growth1769 not found)
+(variable rail_growth1769 not found)
+(variable computer_growth1770 not found)
+(variable car_growth1770 not found)
+(variable phone_growth1770 not found)
+(variable tractor_growth1770 not found)
+(variable rail_growth1770 not found)
+(variable computer_growth1771 not found)
+(variable car_growth1771 not found)
+(variable phone_growth1771 not found)
+(variable tractor_growth1771 not found)
+(variable rail_growth1771 not found)
+(variable computer_growth1772 not found)
+(variable car_growth1772 not found)
+(variable phone_growth1772 not found)
+(variable tractor_growth1772 not found)
+(variable rail_growth1772 not found)
+(variable computer_growth1773 not found)
+(variable car_growth1773 not found)
+(variable phone_growth1773 not found)
+(variable tractor_growth1773 not found)
+(variable rail_growth1773 not found)
+(variable computer_growth1774 not found)
+(variable car_growth1774 not found)
+(variable phone_growth1774 not found)
+(variable tractor_growth1774 not found)
+(variable rail_growth1774 not found)
+(variable computer_growth1775 not found)
+(variable car_growth1775 not found)
+(variable phone_growth1775 not found)
+(variable tractor_growth1775 not found)
+(variable rail_growth1775 not found)
+(variable computer_growth1776 not found)
+(variable car_growth1776 not found)
+(variable phone_growth1776 not found)
+(variable tractor_growth1776 not found)
+(variable rail_growth1776 not found)
+(variable computer_growth1777 not found)
+(variable car_growth1777 not found)
+(variable phone_growth1777 not found)
+(variable tractor_growth1777 not found)
+(variable rail_growth1777 not found)
+(variable computer_growth1778 not found)
+(variable car_growth1778 not found)
+(variable phone_growth1778 not found)
+(variable tractor_growth1778 not found)
+(variable rail_growth1778 not found)
+(variable computer_growth1779 not found)
+(variable car_growth1779 not found)
+(variable phone_growth1779 not found)
+(variable tractor_growth1779 not found)
+(variable rail_growth1779 not found)
+(variable computer_growth1780 not found)
+(variable car_growth1780 not found)
+(variable phone_growth1780 not found)
+(variable tractor_growth1780 not found)
+(variable rail_growth1780 not found)
+(variable computer_growth1781 not found)
+(variable car_growth1781 not found)
+(variable phone_growth1781 not found)
+(variable tractor_growth1781 not found)
+(variable rail_growth1781 not found)
+(variable computer_growth1782 not found)
+(variable car_growth1782 not found)
+(variable phone_growth1782 not found)
+(variable tractor_growth1782 not found)
+(variable rail_growth1782 not found)
+(variable computer_growth1783 not found)
+(variable car_growth1783 not found)
+(variable phone_growth1783 not found)
+(variable tractor_growth1783 not found)
+(variable rail_growth1783 not found)
+(variable computer_growth1784 not found)
+(variable car_growth1784 not found)
+(variable phone_growth1784 not found)
+(variable tractor_growth1784 not found)
+(variable rail_growth1784 not found)
+(variable computer_growth1785 not found)
+(variable car_growth1785 not found)
+(variable phone_growth1785 not found)
+(variable tractor_growth1785 not found)
+(variable rail_growth1785 not found)
+(variable computer_growth1786 not found)
+(variable car_growth1786 not found)
+(variable phone_growth1786 not found)
+(variable tractor_growth1786 not found)
+(variable rail_growth1786 not found)
+(variable computer_growth1787 not found)
+(variable car_growth1787 not found)
+(variable phone_growth1787 not found)
+(variable tractor_growth1787 not found)
+(variable rail_growth1787 not found)
+(variable computer_growth1788 not found)
+(variable car_growth1788 not found)
+(variable phone_growth1788 not found)
+(variable tractor_growth1788 not found)
+(variable rail_growth1788 not found)
+(variable computer_growth1789 not found)
+(variable car_growth1789 not found)
+(variable phone_growth1789 not found)
+(variable tractor_growth1789 not found)
+(variable rail_growth1789 not found)
+(variable computer_growth1790 not found)
+(variable car_growth1790 not found)
+(variable phone_growth1790 not found)
+(variable tractor_growth1790 not found)
+(variable rail_growth1790 not found)
+(variable computer_growth1791 not found)
+(variable car_growth1791 not found)
+(variable phone_growth1791 not found)
+(variable tractor_growth1791 not found)
+(variable rail_growth1791 not found)
+(variable computer_growth1792 not found)
+(variable car_growth1792 not found)
+(variable phone_growth1792 not found)
+(variable tractor_growth1792 not found)
+(variable rail_growth1792 not found)
+(variable computer_growth1793 not found)
+(variable car_growth1793 not found)
+(variable phone_growth1793 not found)
+(variable tractor_growth1793 not found)
+(variable rail_growth1793 not found)
+(variable computer_growth1794 not found)
+(variable car_growth1794 not found)
+(variable phone_growth1794 not found)
+(variable tractor_growth1794 not found)
+(variable rail_growth1794 not found)
+(variable computer_growth1795 not found)
+(variable car_growth1795 not found)
+(variable phone_growth1795 not found)
+(variable tractor_growth1795 not found)
+(variable rail_growth1795 not found)
+(variable computer_growth1796 not found)
+(variable car_growth1796 not found)
+(variable phone_growth1796 not found)
+(variable tractor_growth1796 not found)
+(variable rail_growth1796 not found)
+(variable computer_growth1797 not found)
+(variable car_growth1797 not found)
+(variable phone_growth1797 not found)
+(variable tractor_growth1797 not found)
+(variable rail_growth1797 not found)
+(variable computer_growth1798 not found)
+(variable car_growth1798 not found)
+(variable phone_growth1798 not found)
+(variable tractor_growth1798 not found)
+(variable rail_growth1798 not found)
+(variable computer_growth1799 not found)
+(variable car_growth1799 not found)
+(variable phone_growth1799 not found)
+(variable tractor_growth1799 not found)
+(variable rail_growth1799 not found)
+(variable computer_growth1800 not found)
+(variable car_growth1800 not found)
+(variable phone_growth1800 not found)
+(variable tractor_growth1800 not found)
+(variable rail_growth1800 not found)
+(variable computer_growth1801 not found)
+(variable car_growth1801 not found)
+(variable phone_growth1801 not found)
+(variable tractor_growth1801 not found)
+(variable rail_growth1801 not found)
+(variable computer_growth1802 not found)
+(variable car_growth1802 not found)
+(variable phone_growth1802 not found)
+(variable tractor_growth1802 not found)
+(variable rail_growth1802 not found)
+(variable computer_growth1803 not found)
+(variable car_growth1803 not found)
+(variable phone_growth1803 not found)
+(variable tractor_growth1803 not found)
+(variable rail_growth1803 not found)
+(variable computer_growth1804 not found)
+(variable car_growth1804 not found)
+(variable phone_growth1804 not found)
+(variable tractor_growth1804 not found)
+(variable rail_growth1804 not found)
+(variable computer_growth1805 not found)
+(variable car_growth1805 not found)
+(variable phone_growth1805 not found)
+(variable tractor_growth1805 not found)
+(variable rail_growth1805 not found)
+(variable computer_growth1806 not found)
+(variable car_growth1806 not found)
+(variable phone_growth1806 not found)
+(variable tractor_growth1806 not found)
+(variable rail_growth1806 not found)
+(variable computer_growth1807 not found)
+(variable car_growth1807 not found)
+(variable phone_growth1807 not found)
+(variable tractor_growth1807 not found)
+(variable rail_growth1807 not found)
+(variable computer_growth1808 not found)
+(variable car_growth1808 not found)
+(variable phone_growth1808 not found)
+(variable tractor_growth1808 not found)
+(variable rail_growth1808 not found)
+(variable computer_growth1809 not found)
+(variable car_growth1809 not found)
+(variable phone_growth1809 not found)
+(variable tractor_growth1809 not found)
+(variable rail_growth1809 not found)
+(variable computer_growth1810 not found)
+(variable car_growth1810 not found)
+(variable phone_growth1810 not found)
+(variable tractor_growth1810 not found)
+(variable rail_growth1810 not found)
+(variable computer_growth1811 not found)
+(variable car_growth1811 not found)
+(variable phone_growth1811 not found)
+(variable tractor_growth1811 not found)
+(variable rail_growth1811 not found)
+(variable computer_growth1812 not found)
+(variable car_growth1812 not found)
+(variable phone_growth1812 not found)
+(variable tractor_growth1812 not found)
+(variable rail_growth1812 not found)
+(variable computer_growth1813 not found)
+(variable car_growth1813 not found)
+(variable phone_growth1813 not found)
+(variable tractor_growth1813 not found)
+(variable rail_growth1813 not found)
+(variable computer_growth1814 not found)
+(variable car_growth1814 not found)
+(variable phone_growth1814 not found)
+(variable tractor_growth1814 not found)
+(variable rail_growth1814 not found)
+(variable computer_growth1815 not found)
+(variable car_growth1815 not found)
+(variable phone_growth1815 not found)
+(variable tractor_growth1815 not found)
+(variable rail_growth1815 not found)
+(variable computer_growth1816 not found)
+(variable car_growth1816 not found)
+(variable phone_growth1816 not found)
+(variable tractor_growth1816 not found)
+(variable rail_growth1816 not found)
+(variable computer_growth1817 not found)
+(variable car_growth1817 not found)
+(variable phone_growth1817 not found)
+(variable tractor_growth1817 not found)
+(variable rail_growth1817 not found)
+(variable computer_growth1818 not found)
+(variable car_growth1818 not found)
+(variable phone_growth1818 not found)
+(variable tractor_growth1818 not found)
+(variable rail_growth1818 not found)
+(variable computer_growth1819 not found)
+(variable car_growth1819 not found)
+(variable phone_growth1819 not found)
+(variable tractor_growth1819 not found)
+(variable rail_growth1819 not found)
+(variable computer_growth1820 not found)
+(variable car_growth1820 not found)
+(variable phone_growth1820 not found)
+(variable tractor_growth1820 not found)
+(variable rail_growth1820 not found)
+(variable computer_growth1821 not found)
+(variable car_growth1821 not found)
+(variable phone_growth1821 not found)
+(variable tractor_growth1821 not found)
+(variable rail_growth1821 not found)
+(variable computer_growth1822 not found)
+(variable car_growth1822 not found)
+(variable phone_growth1822 not found)
+(variable tractor_growth1822 not found)
+(variable rail_growth1822 not found)
+(variable computer_growth1823 not found)
+(variable car_growth1823 not found)
+(variable phone_growth1823 not found)
+(variable tractor_growth1823 not found)
+(variable rail_growth1823 not found)
+(variable computer_growth1824 not found)
+(variable car_growth1824 not found)
+(variable phone_growth1824 not found)
+(variable tractor_growth1824 not found)
+(variable rail_growth1824 not found)
+(variable computer_growth1825 not found)
+(variable car_growth1825 not found)
+(variable phone_growth1825 not found)
+(variable tractor_growth1825 not found)
+(variable rail_growth1825 not found)
+(variable computer_growth1826 not found)
+(variable car_growth1826 not found)
+(variable phone_growth1826 not found)
+(variable tractor_growth1826 not found)
+(variable rail_growth1826 not found)
+(variable computer_growth1827 not found)
+(variable car_growth1827 not found)
+(variable phone_growth1827 not found)
+(variable tractor_growth1827 not found)
+(variable rail_growth1827 not found)
+(variable computer_growth1828 not found)
+(variable car_growth1828 not found)
+(variable phone_growth1828 not found)
+(variable tractor_growth1828 not found)
+(variable rail_growth1828 not found)
+(variable computer_growth1829 not found)
+(variable car_growth1829 not found)
+(variable phone_growth1829 not found)
+(variable tractor_growth1829 not found)
+(variable rail_growth1829 not found)
+(variable computer_growth1830 not found)
+(variable car_growth1830 not found)
+(variable phone_growth1830 not found)
+(variable tractor_growth1830 not found)
+(variable rail_growth1830 not found)
+(variable computer_growth1831 not found)
+(variable car_growth1831 not found)
+(variable phone_growth1831 not found)
+(variable tractor_growth1831 not found)
+(variable rail_growth1831 not found)
+(variable computer_growth1832 not found)
+(variable car_growth1832 not found)
+(variable phone_growth1832 not found)
+(variable tractor_growth1832 not found)
+(variable rail_growth1832 not found)
+(variable computer_growth1833 not found)
+(variable car_growth1833 not found)
+(variable phone_growth1833 not found)
+(variable tractor_growth1833 not found)
+(variable rail_growth1833 not found)
+(variable computer_growth1834 not found)
+(variable car_growth1834 not found)
+(variable phone_growth1834 not found)
+(variable tractor_growth1834 not found)
+(variable rail_growth1834 not found)
+(variable computer_growth1835 not found)
+(variable car_growth1835 not found)
+(variable phone_growth1835 not found)
+(variable tractor_growth1835 not found)
+(variable rail_growth1835 not found)
+(variable computer_growth1836 not found)
+(variable car_growth1836 not found)
+(variable phone_growth1836 not found)
+(variable tractor_growth1836 not found)
+(variable rail_growth1836 not found)
+(variable computer_growth1837 not found)
+(variable car_growth1837 not found)
+(variable phone_growth1837 not found)
+(variable tractor_growth1837 not found)
+(variable rail_growth1837 not found)
+(variable computer_growth1838 not found)
+(variable car_growth1838 not found)
+(variable phone_growth1838 not found)
+(variable tractor_growth1838 not found)
+(variable rail_growth1838 not found)
+(variable computer_growth1839 not found)
+(variable car_growth1839 not found)
+(variable phone_growth1839 not found)
+(variable tractor_growth1839 not found)
+(variable rail_growth1839 not found)
+(variable computer_growth1840 not found)
+(variable car_growth1840 not found)
+(variable phone_growth1840 not found)
+(variable tractor_growth1840 not found)
+(variable rail_growth1840 not found)
+(variable computer_growth1841 not found)
+(variable car_growth1841 not found)
+(variable phone_growth1841 not found)
+(variable tractor_growth1841 not found)
+(variable rail_growth1841 not found)
+(variable computer_growth1842 not found)
+(variable car_growth1842 not found)
+(variable phone_growth1842 not found)
+(variable tractor_growth1842 not found)
+(variable rail_growth1842 not found)
+(variable computer_growth1843 not found)
+(variable car_growth1843 not found)
+(variable phone_growth1843 not found)
+(variable tractor_growth1843 not found)
+(variable rail_growth1843 not found)
+(variable computer_growth1844 not found)
+(variable car_growth1844 not found)
+(variable phone_growth1844 not found)
+(variable tractor_growth1844 not found)
+(variable rail_growth1844 not found)
+(variable computer_growth1845 not found)
+(variable car_growth1845 not found)
+(variable phone_growth1845 not found)
+(variable tractor_growth1845 not found)
+(variable rail_growth1845 not found)
+(variable computer_growth1846 not found)
+(variable car_growth1846 not found)
+(variable phone_growth1846 not found)
+(variable tractor_growth1846 not found)
+(variable rail_growth1846 not found)
+(variable computer_growth1847 not found)
+(variable car_growth1847 not found)
+(variable phone_growth1847 not found)
+(variable tractor_growth1847 not found)
+(variable rail_growth1847 not found)
+(variable computer_growth1848 not found)
+(variable car_growth1848 not found)
+(variable phone_growth1848 not found)
+(variable tractor_growth1848 not found)
+(variable rail_growth1848 not found)
+(variable computer_growth1849 not found)
+(variable car_growth1849 not found)
+(variable phone_growth1849 not found)
+(variable tractor_growth1849 not found)
+(variable rail_growth1849 not found)
+(variable computer_growth1850 not found)
+(variable car_growth1850 not found)
+(variable phone_growth1850 not found)
+(variable tractor_growth1850 not found)
+(variable rail_growth1850 not found)
+(variable computer_growth1851 not found)
+(variable car_growth1851 not found)
+(variable phone_growth1851 not found)
+(variable tractor_growth1851 not found)
+(variable rail_growth1851 not found)
+(variable computer_growth1852 not found)
+(variable car_growth1852 not found)
+(variable phone_growth1852 not found)
+(variable tractor_growth1852 not found)
+(variable rail_growth1852 not found)
+(variable computer_growth1853 not found)
+(variable car_growth1853 not found)
+(variable phone_growth1853 not found)
+(variable tractor_growth1853 not found)
+(variable rail_growth1853 not found)
+(variable computer_growth1854 not found)
+(variable car_growth1854 not found)
+(variable phone_growth1854 not found)
+(variable tractor_growth1854 not found)
+(variable rail_growth1854 not found)
+(variable computer_growth1855 not found)
+(variable car_growth1855 not found)
+(variable phone_growth1855 not found)
+(variable tractor_growth1855 not found)
+(variable rail_growth1855 not found)
+(variable computer_growth1856 not found)
+(variable car_growth1856 not found)
+(variable phone_growth1856 not found)
+(variable tractor_growth1856 not found)
+(variable rail_growth1856 not found)
+(variable computer_growth1857 not found)
+(variable car_growth1857 not found)
+(variable phone_growth1857 not found)
+(variable tractor_growth1857 not found)
+(variable rail_growth1857 not found)
+(variable computer_growth1858 not found)
+(variable car_growth1858 not found)
+(variable phone_growth1858 not found)
+(variable tractor_growth1858 not found)
+(variable rail_growth1858 not found)
+(variable computer_growth1859 not found)
+(variable car_growth1859 not found)
+(variable phone_growth1859 not found)
+(variable tractor_growth1859 not found)
+(variable rail_growth1859 not found)
+(variable computer_growth1860 not found)
+(variable car_growth1860 not found)
+(variable phone_growth1860 not found)
+(variable tractor_growth1860 not found)
+(variable rail_growth1860 not found)
+(variable computer_growth1861 not found)
+(variable car_growth1861 not found)
+(variable phone_growth1861 not found)
+(variable tractor_growth1861 not found)
+(variable rail_growth1861 not found)
+(variable computer_growth1862 not found)
+(variable car_growth1862 not found)
+(variable phone_growth1862 not found)
+(variable tractor_growth1862 not found)
+(variable rail_growth1862 not found)
+(variable computer_growth1863 not found)
+(variable car_growth1863 not found)
+(variable phone_growth1863 not found)
+(variable tractor_growth1863 not found)
+(variable rail_growth1863 not found)
+(variable computer_growth1864 not found)
+(variable car_growth1864 not found)
+(variable phone_growth1864 not found)
+(variable tractor_growth1864 not found)
+(variable rail_growth1864 not found)
+(variable computer_growth1865 not found)
+(variable car_growth1865 not found)
+(variable phone_growth1865 not found)
+(variable tractor_growth1865 not found)
+(variable rail_growth1865 not found)
+(variable computer_growth1866 not found)
+(variable car_growth1866 not found)
+(variable phone_growth1866 not found)
+(variable tractor_growth1866 not found)
+(variable rail_growth1866 not found)
+(variable computer_growth1867 not found)
+(variable car_growth1867 not found)
+(variable phone_growth1867 not found)
+(variable tractor_growth1867 not found)
+(variable rail_growth1867 not found)
+(variable computer_growth1868 not found)
+(variable car_growth1868 not found)
+(variable phone_growth1868 not found)
+(variable tractor_growth1868 not found)
+(variable rail_growth1868 not found)
+(variable computer_growth1869 not found)
+(variable car_growth1869 not found)
+(variable phone_growth1869 not found)
+(variable tractor_growth1869 not found)
+(variable rail_growth1869 not found)
+(variable computer_growth1870 not found)
+(variable car_growth1870 not found)
+(variable phone_growth1870 not found)
+(variable tractor_growth1870 not found)
+(variable rail_growth1870 not found)
+(variable computer_growth1871 not found)
+(variable car_growth1871 not found)
+(variable phone_growth1871 not found)
+(variable tractor_growth1871 not found)
+(variable rail_growth1871 not found)
+(variable computer_growth1872 not found)
+(variable car_growth1872 not found)
+(variable phone_growth1872 not found)
+(variable tractor_growth1872 not found)
+(variable rail_growth1872 not found)
+(variable computer_growth1873 not found)
+(variable car_growth1873 not found)
+(variable phone_growth1873 not found)
+(variable tractor_growth1873 not found)
+(variable rail_growth1873 not found)
+(variable computer_growth1874 not found)
+(variable car_growth1874 not found)
+(variable phone_growth1874 not found)
+(variable tractor_growth1874 not found)
+(variable rail_growth1874 not found)
+(variable computer_growth1875 not found)
+(variable car_growth1875 not found)
+(variable phone_growth1875 not found)
+(variable tractor_growth1875 not found)
+(variable rail_growth1875 not found)
+(variable computer_growth1876 not found)
+(variable car_growth1876 not found)
+(variable phone_growth1876 not found)
+(variable tractor_growth1876 not found)
+(variable rail_growth1876 not found)
+(variable computer_growth1877 not found)
+(variable car_growth1877 not found)
+(variable phone_growth1877 not found)
+(variable tractor_growth1877 not found)
+(variable rail_growth1877 not found)
+(variable computer_growth1878 not found)
+(variable car_growth1878 not found)
+(variable phone_growth1878 not found)
+(variable tractor_growth1878 not found)
+(variable rail_growth1878 not found)
+(variable computer_growth1879 not found)
+(variable car_growth1879 not found)
+(variable phone_growth1879 not found)
+(variable tractor_growth1879 not found)
+(variable rail_growth1879 not found)
+(variable computer_growth1880 not found)
+(variable car_growth1880 not found)
+(variable phone_growth1880 not found)
+(variable tractor_growth1880 not found)
+(variable rail_growth1880 not found)
+(variable computer_growth1881 not found)
+(variable car_growth1881 not found)
+(variable phone_growth1881 not found)
+(variable tractor_growth1881 not found)
+(variable rail_growth1881 not found)
+(variable computer_growth1882 not found)
+(variable car_growth1882 not found)
+(variable phone_growth1882 not found)
+(variable tractor_growth1882 not found)
+(variable rail_growth1882 not found)
+(variable computer_growth1883 not found)
+(variable car_growth1883 not found)
+(variable phone_growth1883 not found)
+(variable tractor_growth1883 not found)
+(variable rail_growth1883 not found)
+(variable computer_growth1884 not found)
+(variable car_growth1884 not found)
+(variable phone_growth1884 not found)
+(variable tractor_growth1884 not found)
+(variable rail_growth1884 not found)
+(variable computer_growth1885 not found)
+(variable car_growth1885 not found)
+(variable phone_growth1885 not found)
+(variable tractor_growth1885 not found)
+(variable rail_growth1885 not found)
+(variable computer_growth1886 not found)
+(variable car_growth1886 not found)
+(variable phone_growth1886 not found)
+(variable tractor_growth1886 not found)
+(variable rail_growth1886 not found)
+(variable computer_growth1887 not found)
+(variable car_growth1887 not found)
+(variable phone_growth1887 not found)
+(variable tractor_growth1887 not found)
+(variable rail_growth1887 not found)
+(variable computer_growth1888 not found)
+(variable car_growth1888 not found)
+(variable phone_growth1888 not found)
+(variable tractor_growth1888 not found)
+(variable rail_growth1888 not found)
+(variable computer_growth1889 not found)
+(variable car_growth1889 not found)
+(variable phone_growth1889 not found)
+(variable tractor_growth1889 not found)
+(variable rail_growth1889 not found)
+(variable computer_growth1890 not found)
+(variable car_growth1890 not found)
+(variable phone_growth1890 not found)
+(variable tractor_growth1890 not found)
+(variable rail_growth1890 not found)
+(variable computer_growth1891 not found)
+(variable car_growth1891 not found)
+(variable phone_growth1891 not found)
+(variable tractor_growth1891 not found)
+(variable rail_growth1891 not found)
+(variable computer_growth1892 not found)
+(variable car_growth1892 not found)
+(variable phone_growth1892 not found)
+(variable tractor_growth1892 not found)
+(variable rail_growth1892 not found)
+(variable computer_growth1893 not found)
+(variable car_growth1893 not found)
+(variable phone_growth1893 not found)
+(variable tractor_growth1893 not found)
+(variable rail_growth1893 not found)
+(variable computer_growth1894 not found)
+(variable car_growth1894 not found)
+(variable phone_growth1894 not found)
+(variable tractor_growth1894 not found)
+(variable rail_growth1894 not found)
+(variable computer_growth1895 not found)
+(variable car_growth1895 not found)
+(variable phone_growth1895 not found)
+(variable tractor_growth1895 not found)
+(variable rail_growth1895 not found)
+(variable computer_growth1896 not found)
+(variable car_growth1896 not found)
+(variable phone_growth1896 not found)
+(variable tractor_growth1896 not found)
+(variable rail_growth1896 not found)
+(variable computer_growth1897 not found)
+(variable car_growth1897 not found)
+(variable phone_growth1897 not found)
+(variable tractor_growth1897 not found)
+(variable rail_growth1897 not found)
+(variable computer_growth1898 not found)
+(variable car_growth1898 not found)
+(variable phone_growth1898 not found)
+(variable tractor_growth1898 not found)
+(variable rail_growth1898 not found)
+(variable computer_growth1899 not found)
+(variable car_growth1899 not found)
+(variable phone_growth1899 not found)
+(variable tractor_growth1899 not found)
+(variable rail_growth1899 not found)
+(variable computer_growth1900 not found)
+(variable car_growth1900 not found)
+(variable phone_growth1900 not found)
+(variable tractor_growth1900 not found)
+(variable rail_growth1900 not found)
+(variable computer_growth1901 not found)
+(variable car_growth1901 not found)
+(variable phone_growth1901 not found)
+(variable tractor_growth1901 not found)
+(variable rail_growth1901 not found)
+(variable computer_growth1902 not found)
+(variable car_growth1902 not found)
+(variable phone_growth1902 not found)
+(variable tractor_growth1902 not found)
+(variable rail_growth1902 not found)
+(variable computer_growth1903 not found)
+(variable car_growth1903 not found)
+(variable phone_growth1903 not found)
+(variable tractor_growth1903 not found)
+(variable rail_growth1903 not found)
+(variable computer_growth1904 not found)
+(variable car_growth1904 not found)
+(variable phone_growth1904 not found)
+(variable tractor_growth1904 not found)
+(variable rail_growth1904 not found)
+(variable computer_growth1905 not found)
+(variable car_growth1905 not found)
+(variable phone_growth1905 not found)
+(variable tractor_growth1905 not found)
+(variable rail_growth1905 not found)
+(variable computer_growth1906 not found)
+(variable car_growth1906 not found)
+(variable phone_growth1906 not found)
+(variable tractor_growth1906 not found)
+(variable rail_growth1906 not found)
+(variable computer_growth1907 not found)
+(variable car_growth1907 not found)
+(variable phone_growth1907 not found)
+(variable tractor_growth1907 not found)
+(variable rail_growth1907 not found)
+(variable computer_growth1908 not found)
+(variable car_growth1908 not found)
+(variable phone_growth1908 not found)
+(variable tractor_growth1908 not found)
+(variable rail_growth1908 not found)
+(variable computer_growth1909 not found)
+(variable car_growth1909 not found)
+(variable phone_growth1909 not found)
+(variable tractor_growth1909 not found)
+(variable rail_growth1909 not found)
+(variable computer_growth1910 not found)
+(variable car_growth1910 not found)
+(variable phone_growth1910 not found)
+(variable tractor_growth1910 not found)
+(variable rail_growth1910 not found)
+(variable computer_growth1911 not found)
+(variable car_growth1911 not found)
+(variable phone_growth1911 not found)
+(variable tractor_growth1911 not found)
+(variable rail_growth1911 not found)
+(variable computer_growth1912 not found)
+(variable car_growth1912 not found)
+(variable phone_growth1912 not found)
+(variable tractor_growth1912 not found)
+(variable rail_growth1912 not found)
+(variable computer_growth1913 not found)
+(variable car_growth1913 not found)
+(variable phone_growth1913 not found)
+(variable tractor_growth1913 not found)
+(variable rail_growth1913 not found)
+(variable computer_growth1914 not found)
+(variable car_growth1914 not found)
+(variable phone_growth1914 not found)
+(variable tractor_growth1914 not found)
+(variable rail_growth1914 not found)
+(variable computer_growth1915 not found)
+(variable car_growth1915 not found)
+(variable phone_growth1915 not found)
+(variable tractor_growth1915 not found)
+(variable rail_growth1915 not found)
+(variable computer_growth1916 not found)
+(variable car_growth1916 not found)
+(variable phone_growth1916 not found)
+(variable tractor_growth1916 not found)
+(variable rail_growth1916 not found)
+(variable computer_growth1917 not found)
+(variable car_growth1917 not found)
+(variable phone_growth1917 not found)
+(variable tractor_growth1917 not found)
+(variable rail_growth1917 not found)
+(variable computer_growth1918 not found)
+(variable car_growth1918 not found)
+(variable phone_growth1918 not found)
+(variable tractor_growth1918 not found)
+(variable rail_growth1918 not found)
+(variable computer_growth1919 not found)
+(variable car_growth1919 not found)
+(variable phone_growth1919 not found)
+(variable tractor_growth1919 not found)
+(variable rail_growth1919 not found)
+(variable computer_growth1920 not found)
+(variable car_growth1920 not found)
+(variable phone_growth1920 not found)
+(variable tractor_growth1920 not found)
+(variable rail_growth1920 not found)
+(variable computer_growth1921 not found)
+(variable car_growth1921 not found)
+(variable phone_growth1921 not found)
+(variable tractor_growth1921 not found)
+(variable rail_growth1921 not found)
+(variable computer_growth1922 not found)
+(variable car_growth1922 not found)
+(variable phone_growth1922 not found)
+(variable tractor_growth1922 not found)
+(variable rail_growth1922 not found)
+(variable computer_growth1923 not found)
+(variable car_growth1923 not found)
+(variable phone_growth1923 not found)
+(variable tractor_growth1923 not found)
+(variable rail_growth1923 not found)
+(variable computer_growth1924 not found)
+(variable car_growth1924 not found)
+(variable phone_growth1924 not found)
+(variable tractor_growth1924 not found)
+(variable rail_growth1924 not found)
+(variable computer_growth1925 not found)
+(variable car_growth1925 not found)
+(variable phone_growth1925 not found)
+(variable tractor_growth1925 not found)
+(variable rail_growth1925 not found)
+(variable computer_growth1926 not found)
+(variable car_growth1926 not found)
+(variable phone_growth1926 not found)
+(variable tractor_growth1926 not found)
+(variable rail_growth1926 not found)
+(variable computer_growth1927 not found)
+(variable car_growth1927 not found)
+(variable phone_growth1927 not found)
+(variable tractor_growth1927 not found)
+(variable rail_growth1927 not found)
+(variable computer_growth1928 not found)
+(variable car_growth1928 not found)
+(variable phone_growth1928 not found)
+(variable tractor_growth1928 not found)
+(variable rail_growth1928 not found)
+(variable computer_growth1929 not found)
+(variable car_growth1929 not found)
+(variable phone_growth1929 not found)
+(variable tractor_growth1929 not found)
+(variable rail_growth1929 not found)
+(variable computer_growth1930 not found)
+(variable car_growth1930 not found)
+(variable phone_growth1930 not found)
+(variable tractor_growth1930 not found)
+(variable rail_growth1930 not found)
+(variable computer_growth1931 not found)
+(variable car_growth1931 not found)
+(variable phone_growth1931 not found)
+(variable tractor_growth1931 not found)
+(variable rail_growth1931 not found)
+(variable computer_growth1932 not found)
+(variable car_growth1932 not found)
+(variable phone_growth1932 not found)
+(variable tractor_growth1932 not found)
+(variable rail_growth1932 not found)
+(variable computer_growth1933 not found)
+(variable car_growth1933 not found)
+(variable phone_growth1933 not found)
+(variable tractor_growth1933 not found)
+(variable rail_growth1933 not found)
+(variable computer_growth1934 not found)
+(variable car_growth1934 not found)
+(variable phone_growth1934 not found)
+(variable tractor_growth1934 not found)
+(variable rail_growth1934 not found)
+(variable computer_growth1935 not found)
+(variable car_growth1935 not found)
+(variable phone_growth1935 not found)
+(variable tractor_growth1935 not found)
+(variable rail_growth1935 not found)
+(variable computer_growth1936 not found)
+(variable car_growth1936 not found)
+(variable phone_growth1936 not found)
+(variable tractor_growth1936 not found)
+(variable rail_growth1936 not found)
+(variable computer_growth1937 not found)
+(variable car_growth1937 not found)
+(variable phone_growth1937 not found)
+(variable tractor_growth1937 not found)
+(variable rail_growth1937 not found)
+(variable computer_growth1938 not found)
+(variable car_growth1938 not found)
+(variable phone_growth1938 not found)
+(variable tractor_growth1938 not found)
+(variable rail_growth1938 not found)
+(variable computer_growth1939 not found)
+(variable car_growth1939 not found)
+(variable phone_growth1939 not found)
+(variable tractor_growth1939 not found)
+(variable rail_growth1939 not found)
+(variable computer_growth1940 not found)
+(variable car_growth1940 not found)
+(variable phone_growth1940 not found)
+(variable tractor_growth1940 not found)
+(variable rail_growth1940 not found)
+(variable computer_growth1941 not found)
+(variable car_growth1941 not found)
+(variable phone_growth1941 not found)
+(variable tractor_growth1941 not found)
+(variable rail_growth1941 not found)
+(variable computer_growth1942 not found)
+(variable car_growth1942 not found)
+(variable phone_growth1942 not found)
+(variable tractor_growth1942 not found)
+(variable rail_growth1942 not found)
+(variable computer_growth1943 not found)
+(variable car_growth1943 not found)
+(variable phone_growth1943 not found)
+(variable tractor_growth1943 not found)
+(variable rail_growth1943 not found)
+(variable computer_growth1944 not found)
+(variable car_growth1944 not found)
+(variable phone_growth1944 not found)
+(variable tractor_growth1944 not found)
+(variable rail_growth1944 not found)
+(variable computer_growth1945 not found)
+(variable car_growth1945 not found)
+(variable phone_growth1945 not found)
+(variable tractor_growth1945 not found)
+(variable rail_growth1945 not found)
+(variable computer_growth1946 not found)
+(variable car_growth1946 not found)
+(variable phone_growth1946 not found)
+(variable tractor_growth1946 not found)
+(variable rail_growth1946 not found)
+(variable computer_growth1947 not found)
+(variable car_growth1947 not found)
+(variable phone_growth1947 not found)
+(variable tractor_growth1947 not found)
+(variable rail_growth1947 not found)
+(variable computer_growth1948 not found)
+(variable car_growth1948 not found)
+(variable phone_growth1948 not found)
+(variable tractor_growth1948 not found)
+(variable rail_growth1948 not found)
+(variable computer_growth1949 not found)
+(variable car_growth1949 not found)
+(variable phone_growth1949 not found)
+(variable tractor_growth1949 not found)
+(variable rail_growth1949 not found)
+(variable computer_growth1950 not found)
+(variable car_growth1950 not found)
+(variable phone_growth1950 not found)
+(variable tractor_growth1950 not found)
+(variable rail_growth1950 not found)
+(variable computer_growth1951 not found)
+(variable car_growth1951 not found)
+(variable phone_growth1951 not found)
+(variable tractor_growth1951 not found)
+(variable rail_growth1951 not found)
+(variable computer_growth1952 not found)
+(variable car_growth1952 not found)
+(variable phone_growth1952 not found)
+(variable tractor_growth1952 not found)
+(variable rail_growth1952 not found)
+(variable computer_growth1953 not found)
+(variable car_growth1953 not found)
+(variable phone_growth1953 not found)
+(variable tractor_growth1953 not found)
+(variable rail_growth1953 not found)
+(variable computer_growth1954 not found)
+(variable car_growth1954 not found)
+(variable phone_growth1954 not found)
+(variable tractor_growth1954 not found)
+(variable rail_growth1954 not found)
+(variable computer_growth1955 not found)
+(variable car_growth1955 not found)
+(variable phone_growth1955 not found)
+(variable tractor_growth1955 not found)
+(variable rail_growth1955 not found)
+(variable computer_growth1956 not found)
+(variable car_growth1956 not found)
+(variable phone_growth1956 not found)
+(variable tractor_growth1956 not found)
+(variable rail_growth1956 not found)
+(variable computer_growth1957 not found)
+(variable car_growth1957 not found)
+(variable phone_growth1957 not found)
+(variable tractor_growth1957 not found)
+(variable rail_growth1957 not found)
+(variable computer_growth1958 not found)
+(variable car_growth1958 not found)
+(variable phone_growth1958 not found)
+(variable tractor_growth1958 not found)
+(variable rail_growth1958 not found)
+(variable computer_growth1959 not found)
+(variable car_growth1959 not found)
+(variable phone_growth1959 not found)
+(variable tractor_growth1959 not found)
+(variable rail_growth1959 not found)
+(variable computer_growth1960 not found)
+(variable car_growth1960 not found)
+(variable phone_growth1960 not found)
+(variable tractor_growth1960 not found)
+(variable rail_growth1960 not found)
+(variable computer_growth1961 not found)
+(variable car_growth1961 not found)
+(variable phone_growth1961 not found)
+(variable tractor_growth1961 not found)
+(variable rail_growth1961 not found)
+(variable computer_growth1962 not found)
+(variable car_growth1962 not found)
+(variable phone_growth1962 not found)
+(variable tractor_growth1962 not found)
+(variable rail_growth1962 not found)
+(variable computer_growth1963 not found)
+(variable car_growth1963 not found)
+(variable phone_growth1963 not found)
+(variable tractor_growth1963 not found)
+(variable rail_growth1963 not found)
+(variable computer_growth1964 not found)
+(variable car_growth1964 not found)
+(variable phone_growth1964 not found)
+(variable tractor_growth1964 not found)
+(variable rail_growth1964 not found)
+(variable computer_growth1965 not found)
+(variable car_growth1965 not found)
+(variable phone_growth1965 not found)
+(variable tractor_growth1965 not found)
+(variable rail_growth1965 not found)
+(variable computer_growth1966 not found)
+(variable car_growth1966 not found)
+(variable phone_growth1966 not found)
+(variable tractor_growth1966 not found)
+(variable rail_growth1966 not found)
+(variable computer_growth1967 not found)
+(variable car_growth1967 not found)
+(variable phone_growth1967 not found)
+(variable tractor_growth1967 not found)
+(variable rail_growth1967 not found)
+(variable computer_growth1968 not found)
+(variable car_growth1968 not found)
+(variable phone_growth1968 not found)
+(variable tractor_growth1968 not found)
+(variable rail_growth1968 not found)
+(variable computer_growth1969 not found)
+(variable car_growth1969 not found)
+(variable phone_growth1969 not found)
+(variable tractor_growth1969 not found)
+(variable rail_growth1969 not found)
+(variable computer_growth2000 not found)
+(variable car_growth2000 not found)
+(variable phone_growth2000 not found)
+(variable tractor_growth2000 not found)
+(variable rail_growth2000 not found)
+(variable computer_growth2001 not found)
+(variable car_growth2001 not found)
+(variable phone_growth2001 not found)
+(variable tractor_growth2001 not found)
+(variable rail_growth2001 not found)
+(variable computer_growth2002 not found)
+(variable car_growth2002 not found)
+(variable phone_growth2002 not found)
+(variable tractor_growth2002 not found)
+(variable rail_growth2002 not found)
+(variable computer_growth2003 not found)
+(variable car_growth2003 not found)
+(variable phone_growth2003 not found)
+(variable tractor_growth2003 not found)
+(variable rail_growth2003 not found)
+(variable computer_growth2004 not found)
+(variable car_growth2004 not found)
+(variable phone_growth2004 not found)
+(variable tractor_growth2004 not found)
+(variable rail_growth2004 not found)
+(variable computer_growth2005 not found)
+(variable car_growth2005 not found)
+(variable phone_growth2005 not found)
+(variable tractor_growth2005 not found)
+(variable rail_growth2005 not found)
+(variable computer_growth2006 not found)
+(variable car_growth2006 not found)
+(variable phone_growth2006 not found)
+(variable tractor_growth2006 not found)
+(variable rail_growth2006 not found)
+(variable computer_growth2007 not found)
+(variable car_growth2007 not found)
+(variable phone_growth2007 not found)
+(variable tractor_growth2007 not found)
+(variable rail_growth2007 not found)
+(variable computer_growth2008 not found)
+(variable car_growth2008 not found)
+(variable phone_growth2008 not found)
+(variable tractor_growth2008 not found)
+(variable rail_growth2008 not found)
+
+Data                               Wide   ->   Long
+-----------------------------------------------------------------------------
+Number of observations              161   ->   41,699      
+Number of variables               1,446   ->   12          
+j variable (259 values)                   ->   year
+xij variables:
+computer1750 computer1751 ... computer2008->   computer
+computer_growth1750 computer_growth1751 ... computer_growth2008->computer_growth
+vehicle_car1750 vehicle_car1751 ... vehicle_car2008->vehicle_car
+car_growth1750 car_growth1751 ... car_growth2008->car_growth
+telephone1750 telephone1751 ... telephone2008->telephone
+phone_growth1750 phone_growth1751 ... phone_growth2008->phone_growth
+ag_tractor1750 ag_tractor1751 ... ag_tractor2008->ag_tractor
+tractor_growth1750 tractor_growth1751 ... tractor_growth2008->tractor_growth
+railline1750 railline1751 ... railline2008->   railline
+rail_growth1750 rail_growth1751 ... rail_growth2008->rail_growth
+-----------------------------------------------------------------------------
+
+. save techlong, replace
+file techlong.dta saved
+
+. 
+. ***MERGE***
+. use gdplong, clear
+
+. merge 1:1 country year using techlong
+
+    Result                      Number of obs
+    -----------------------------------------
+    Not matched                        37,281
+        from master                     4,196  (_merge==1)
+        from using                     33,085  (_merge==2)
+
+    Matched                             8,614  (_merge==3)
+    -----------------------------------------
+
+. tab _merge
+
+   Matching result from |
+                  merge |      Freq.     Percent        Cum.
+------------------------+-----------------------------------
+        Master only (1) |      4,196        9.14        9.14
+         Using only (2) |     33,085       72.09       81.23
+            Matched (3) |      8,614       18.77      100.00
+------------------------+-----------------------------------
+                  Total |     45,895      100.00
+
+. keep if _merge == 3
+(37,281 observations deleted)
+
+. drop _merge
+
+. *rename vehicle_car car
+. *rename rgdpna gdp
+. save devmerge, replace
+file devmerge.dta saved
+
+. 
+. ***COLLAPSING GROWTH***
+. gen developed = 0
+
+. replace developed = 1 if inlist(country, "France", "Germany", "Italy", "Japan", "United Kingdom", "Un
+> ited States")
+(354 real changes made)
+
+. 
+. collapse (mean) gdp_growth computer_growth car_growth phone_growth tractor_growth rail_growth pop [we
+> ight=pop], by(developed year)
+(analytic weights assumed)
+
+. drop if year < 1970 | year > 1999
+(58 observations deleted)
+
+. 
+. ***VISUALIZATION***
+. *TABLE
+. sum gdp_growth car_growth computer_growth phone_growth tractor_growth rail_growth 
+
+    Variable |        Obs        Mean    Std. dev.       Min        Max
+-------------+---------------------------------------------------------
+  gdp_growth |         60    2.485036    1.382984  -.7324183   5.455446
+  car_growth |         60    6.542812    3.537811    1.48544   14.52225
+computer_g~h |         39    48.20928    46.15806   10.84541   184.4665
+phone_growth |         60    8.994832     7.14121  -.1819494   34.84903
+tractor_gr~h |         60    4.329708    5.109885  -2.290229   20.14452
+-------------+---------------------------------------------------------
+ rail_growth |         60   -.0140872       1.336  -4.575728   4.901194
+
+. 
+. *CAR GROWTH IF DEVELOPED
+. twoway ///
+>     scatter gdp_growth car_growth if developed == 1, msymbol(circle) mcolor(blue) ///
+>     || lfit gdp_growth car_growth if developed == 1, lcolor(blue) ///
+>         legend(off) ///
+>     title("GDP Growth vs. Car Growth (Developed Nations)") ///
+>     xtitle("Car Growth Rate") ///
+>     ytitle("GDP Growth Rate")
+
+. 
+. *CAR GROWTH IF UNDEVELOPED
+. twoway ///
+>     scatter gdp_growth car_growth if developed == 0, msymbol(circle) mcolor(blue) ///
+>     || lfit gdp_growth car_growth if developed == 0, lcolor(blue) ///
+>         legend(off) ///
+>     title("GDP Growth vs. Car Growth (Undeveloped Nations)") ///
+>     xtitle("Car Growth Rate") ///
+>     ytitle("GDP Growth Rate")
+
+.         
+. ***ANALYSIS***
+. 
+. reg gdp_growth computer_growth car_growth phone_growth tractor_growth rail_growth 
+
+      Source |       SS           df       MS      Number of obs   =        39
+-------------+----------------------------------   F(5, 33)        =      0.57
+       Model |  3.84000924         5  .768001848   Prob > F        =    0.7252
+    Residual |  44.7711198        33   1.3567006   R-squared       =    0.0790
+-------------+----------------------------------   Adj R-squared   =   -0.0606
+       Total |   48.611129        38  1.27924024   Root MSE        =    1.1648
+
+---------------------------------------------------------------------------------
+     gdp_growth | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+----------------+----------------------------------------------------------------
+computer_growth |   -.001619   .0045437    -0.36   0.724    -.0108632    .0076253
+     car_growth |   .0129752   .0794484     0.16   0.871    -.1486639    .1746143
+   phone_growth |   .0247795   .0321601     0.77   0.446    -.0406506    .0902096
+ tractor_growth |   .0436684   .0727935     0.60   0.553    -.1044312    .1917679
+    rail_growth |   -.011989   .1622314    -0.07   0.942    -.3420513    .3180732
+          _cons |   2.102766   .4186831     5.02   0.000     1.250949    2.954583
+---------------------------------------------------------------------------------
+
+. 
+. reg gdp_growth computer_growth car_growth phone_growth tractor_growth rail_growth if developed == 1
+
+      Source |       SS           df       MS      Number of obs   =        19
+-------------+----------------------------------   F(5, 13)        =      2.00
+       Model |  10.0654616         5  2.01309232   Prob > F        =    0.1456
+    Residual |  13.0839851        13  1.00646039   R-squared       =    0.4348
+-------------+----------------------------------   Adj R-squared   =    0.2174
+       Total |  23.1494466        18  1.28608037   Root MSE        =    1.0032
+
+---------------------------------------------------------------------------------
+     gdp_growth | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+----------------+----------------------------------------------------------------
+computer_growth |  -.0135077   .0074093    -1.82   0.091    -.0295145     .002499
+     car_growth |  -.0102865   .0990231    -0.10   0.919    -.2242128    .2036399
+   phone_growth |   .3057165   .1679562     1.82   0.092    -.0571307    .6685638
+ tractor_growth |   .4684468   .2471209     1.90   0.080    -.0654253    1.002319
+    rail_growth |  -.0522794   .1533361    -0.34   0.739     -.383542    .2789832
+          _cons |   1.563748   .7739803     2.02   0.064    -.1083351    3.235831
+---------------------------------------------------------------------------------
+
+. 
+. reg gdp_growth computer_growth car_growth phone_growth tractor_growth rail_growth if developed == 0
+
+      Source |       SS           df       MS      Number of obs   =        20
+-------------+----------------------------------   F(5, 14)        =      3.08
+       Model |  12.9532421         5  2.59064843   Prob > F        =    0.0441
+    Residual |  11.7730589        14  .840932779   R-squared       =    0.5239
+-------------+----------------------------------   Adj R-squared   =    0.3538
+       Total |  24.7263011        19  1.30138427   Root MSE        =    .91702
+
+---------------------------------------------------------------------------------
+     gdp_growth | Coefficient  Std. err.      t    P>|t|     [95% conf. interval]
+----------------+----------------------------------------------------------------
+computer_growth |   .0207904    .006877     3.02   0.009     .0060407    .0355401
+     car_growth |   .3836754   .1336146     2.87   0.012     .0971006    .6702503
+   phone_growth |   .0601538   .0349359     1.72   0.107    -.0147763    .1350839
+ tractor_growth |   .1311838    .074009     1.77   0.098    -.0275498    .2899174
+    rail_growth |  -1.013666    .432819    -2.34   0.034     -1.94197   -.0853613
+          _cons |  -3.540017    1.65015    -2.15   0.050    -7.079238   -.0007961
+---------------------------------------------------------------------------------
+
+. 
+. save development, replace
+file development.dta saved
+
+. 
+end of do-file
+
+. end log
+command end is unrecognized
+r(199);
+
+. close log
+command close is unrecognized
+r(199);
+
